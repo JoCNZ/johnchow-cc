@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "about": "About",
+    "journey": "Journey",
+    "stonewood": "Stonewood Group",
+    "keycapital": "Key Capital",
+    "philosophy": "Philosophy",
+    "vision": "Vision",
+    "contact": "Contact"
+  },
+  "meta": {
+    "chineseName": "周家裕"
+  },
+  "hero": {
+    "name": "John Chow",
+    "tagline": "Building Bridges | 搭建桥梁",
+    "subheadline": "From Hong Kong to the World — Forty Years of Building Bridges.",
+    "cta": "Connect With John →"
+  },
+  "about": {
+    "title": "The Man Behind the Bridges",
+    "body": "John Chow was born in Hong Kong, China, and emigrated to New Zealand in 1984. He arrived at a time when New Zealand was a country few Chinese entrepreneurs knew, and China was a market most New Zealanders had never considered. He existed in the gap between two worlds — and over four decades, he chose to fill that gap with something useful: connection, capital, and trust."
+  },
+  "timeline": {
+    "title": "Four Decades. One Direction.",
+    "items": [
+      { "year": "1984", "event": "Arrived in New Zealand from Hong Kong, China — a young man with everything still ahead of him." },
+      { "year": "1990", "event": "Established his first business in New Zealand's construction sector, learning the market from the ground up." },
+      { "year": "2000", "event": "Expanded into commercial property — acquiring, developing, and managing assets across New Zealand's major centres." },
+      { "year": "2010", "event": "Stonewood Group emerged as a diversified investment platform spanning property, hospitality, and residential development." },
+      { "year": "2023", "event": "Founded Key Capital (耀石睿投) in Hainan Free Trade Port in July 2023 — a dual QDLP/QFLP fund management platform and two-way investment bridge between China and Oceania." },
+      { "year": "2026", "event": "Transitioning to a light-asset, China-facing model — building the next chapter of a forty-year story." }
+    ]
+  },
+  "stonewood": {
+    "title": "Built From the Ground Up",
+    "subtitle": "Stonewood Group was not assembled — it was built, deal by deal, project by project, over forty years.",
+    "pillars": [
+      { "icon": "🏢", "title": "Commercial Property", "body": "12 commercial assets across Auckland, Wellington, and Rotorua — actively managed for long-term income and capital performance." },
+      { "icon": "🏨", "title": "Hotels", "body": "5 hotels including the first Radisson RED in Asia Pacific at 280 Queen St and 33 Lorne St, Auckland — delivering premium guest experiences across New Zealand." },
+      { "icon": "☀️", "title": "Renewable Energy & Infrastructure", "body": "16 solar projects and a growing clean energy infrastructure position through RCR, supporting New Zealand's energy transition." },
+      { "icon": "🏠", "title": "Stonewood Homes", "body": "19 homebuilding franchise operations across New Zealand and Australia — delivering new homes through a proven, scalable model." }
+    ]
+  },
+  "keycapital": {
+    "title": "Key Capital",
+    "subtitle": "Where New Zealand Meets China Capital",
+    "body": "Key Capital (耀石睿投) holds dual QDLP and QFLP fund licences issued by Chinese regulators. Established in Hainan Free Trade Port in July 2023, it invests in new energy, environmental protection, AI and digital technology, venture capital, and cultural creativity — as a two-way investment platform connecting China and Oceania.",
+    "highlights": [
+      "QDLP + QFLP dual licences — issued by Chinese regulators, providing structured, compliant access to cross-border capital management.",
+      "Hainan Free Trade Port, established July 2023 — founded in China's flagship free trade zone at the frontier of China's financial opening.",
+      "China–Oceania two-way investment platform — a purpose-built bridge for capital flowing in both directions, backed by four decades of on-the-ground relationships."
+    ]
+  },
+  "philosophy": {
+    "title": "How I Think About Business",
+    "subtitle": "The Stonewood Operating System — convictions tested across every market cycle, every boardroom, and every difficult conversation in two languages across two countries.",
+    "pillars": [
+      { "title": "Platform Over Assets", "body": "Build the capability, not just the inventory. Any asset can be sold. What cannot be easily replaced is the team, the systems, and the relationships that generate the next opportunity. Every Stonewood business is built to be a platform — something that grows and compounds over time, not just a position to be exited." },
+      { "title": "Relationships Over Transactions", "body": "The deal ends. The relationship continues. In New Zealand and in China, the most durable business is built on trust between people — not on contract terms. We invest in people first." },
+      { "title": "Long-Term Over Short-Term", "body": "Patience is a competitive advantage. Most capital is short-cycle. Stonewood Group has been compounding quietly for forty years, and the businesses we are building now are designed to deliver returns across the next twenty." },
+      { "title": "Bridge-Building", "body": "The gap between two worlds is not a problem. It is an opportunity. Every business I have built has benefited from sitting between New Zealand and China — between two languages, two cultures, two pools of capital." }
+    ]
+  },
+  "vision": {
+    "title": "The Next Chapter",
+    "subtitle": "Light asset. Deep relationships. Generational legacy.",
+    "body2035": "By 2035, the goal is a portfolio that is predominantly focused on cross-border capital management — leveraging the New Zealand brand, the China networks, and four decades of on-the-ground experience to generate returns that neither market could produce alone.",
+    "body2045": "By 2045, the vision is a legacy institution: a cross-border investment platform with the institutional depth, the trusted relationships, and the intergenerational capacity to operate well beyond any single founder. The bridge John Chow has spent his life building will outlast him — and that is exactly the point."
+  },
+  "contact": {
+    "title": "Let's Build Something Together",
+    "subtitle": "If you are an investor, entrepreneur, or institution looking to navigate the space between New Zealand and China — John Chow has been doing exactly that for forty years. He is open to conversations with people who think in decades, not quarters.",
+    "investor": "Investor Relations",
+    "business": "Business Partnerships",
+    "email": "Connect via email"
+  }
+}

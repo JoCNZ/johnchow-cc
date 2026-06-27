@@ -1,0 +1,19 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NEXT_TELEMETRY_DISABLED = "1"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[[redirects]]
+  from = "/"
+  to = "/jc"
+  status = 301
+
+[[redirects]]
+  from = "/jc/*"
+  to = "/.netlify/functions/___netlify-handler"
+  status = 200
