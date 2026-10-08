@@ -1,0 +1,10 @@
+# Test preview only. Set the separate Netlify project base directory to aka-rooftop-test.
+# Never attach this preview branch to the production domain.
+[build]
+  command = "echo Static design test: no build required"
+  publish = "."
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow, noarchive"
